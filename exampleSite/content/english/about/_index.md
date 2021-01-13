@@ -1,6 +1,7 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: About Our Company
+description: this is meta description
+bg_image: images/featue-bg.jpg
+
 ---
+Наш коллектив уже более 10 лет занимается организацией и проведением торжественных мероприятий! Наш стиль ведения по истине европейский, культурная и веселая программа. Мы не заставим вас и ваших гостей краснеть и чувствовать себя неудобно. Мы виртуозы импровизации и всегда можем изменить весь ход праздника, если вам это потребуется.
