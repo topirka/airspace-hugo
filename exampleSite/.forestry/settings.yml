@@ -135,13 +135,13 @@ sections:
 - type: heading
   label: Data
 - type: directory
-  path: exampleSite/data/en
-  label: Data (en)
+  path: exampleSite/data/fr
+  label: Data (fr)
   create: all
   match: "**/*"
 - type: directory
-  path: exampleSite/data/fr
-  label: Data (fr)
+  path: exampleSite/data/en
+  label: Data (en)
   create: all
   match: "**/*"
 - type: directory
